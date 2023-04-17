@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atanu Roy</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/123448167/232421754-dd568229-f2e2-43b4-a593-778c20fcd91e.png)"
-<img align="left" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/123448167/232422294-c9beec38-152c-4df2-a2e8-a367c8454964.png)"
+<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/123448167/232422294-c9beec38-152c-4df2-a2e8-a367c8454964.png)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanuroy22&label=Profile%20views&color=0e75b6&style=flat" alt="atanuroy22" /> </p>
 
