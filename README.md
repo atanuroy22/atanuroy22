@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Atanu Roy</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
