@@ -4,8 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Heading </h2> -->
 
-<h1 align="center">Hi 👋, I'm Atanu Roy</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Atanu Roy</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Moving Gif</h2> -->
