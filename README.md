@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/atanu-roy-a65278269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-roy-a65278269" height="30" width="40" /></a>
 <a href="https://fb.com/roy.atantu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roy.atantu" height="30" width="40" /></a>
-<a href="https://instagram.com/atanuroy1297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanuroy1297" height="30" width="40" /></a>
+<a href="https://instagram.com/atanu_roy_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanuroy1297" height="30" width="40" /></a>
   <a href="https://wa.me/919564866051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="atanu roy" height="30" width="40" /></a>
 </p>
 
