@@ -1,15 +1,15 @@
 <!-- <h2 align="center"> ❤ Banner </h2> -->
 <!--![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)-->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-<!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
-
-<h3 >Connect with me:</h3>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)<h3 >Connect with me:</h3>
 <p >
 <a href="https://linkedin.com/in/atanu-roy-a65278269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-roy-a65278269" height="30" width="40" /></a>
 <a href="https://fb.com/roy.atantu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roy.atantu" height="30" width="40" /></a>
 <a href="https://instagram.com/atanu_roy_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanuroy1297" height="30" width="40" /></a>
   <a href="https://wa.me/919564866051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="atanu roy" height="30" width="40" /></a>
-</p><br>
+</p>
+<!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Heading </h2> -->
 <h1 align="center">Hey 👋, I'm Atanu Roy</h1>
