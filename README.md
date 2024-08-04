@@ -3,8 +3,8 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 >Connect with me:</h3>
+<p >
 <a href="https://linkedin.com/in/atanu-roy-a65278269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-roy-a65278269" height="30" width="40" /></a>
 <a href="https://fb.com/roy.atantu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roy.atantu" height="30" width="40" /></a>
 <a href="https://instagram.com/atanu_roy_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanuroy1297" height="30" width="40" /></a>
