@@ -1,9 +1,8 @@
 <!-- <h2 align="center"> ❤ Banner </h2> -->
-![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)
-
+<!--![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)-->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Heading </h2> -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <h1 align="center">Hey 👋, I'm Atanu Roy</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
