@@ -213,11 +213,11 @@ box-shadow:0px 0px 10px var(--c);
 }
 </style>
 <div class="knl"  >Known Languages</div>
-<div class="knoo" >Html<div class="bars" style="--c:#ff0"  >0.01%<div class="howm" style="--c:#ff0" ></div></div></div>
-<div class="knoo" >Css<div class="bars" style="--c:#2b7489"  >0.01%<div class="howm" style="--c:#2b7489"  ></div></div></div>
-<div class="knoo" >Js<div class="bars" style="--c:#af7219"  >0.01%<div class="howm"  style="--c:#af7219" ></div></div></div>
-<div class="knoo" >PHP<div class="bars" style="--c:#4e5d94" >0.01%<div class="howm"  style="--c:#4e5d94"  ></div></div></div>
-<div class="knoo" ><span style="font-size:12px;" >Copy/Paste</span><div class="bars" style="border:1px solid #0fa;color:black;box-shadow:0px 0px 0px #0fa;" >101%<div class="howm" style="width:101%;background:#0fa;box-shadow:0px 0px 10px #0fa;" ></div></div></div>
+<div class="knoo" ><span style="font-size:12px;" >Html</span><div class="bars" style="--c:#ff0"  >0.01%<div class="howm" style="--c:#ff0" ></div></div></div>
+<div class="knoo" ><span style="font-size:12px;" >Css</span><div class="bars" style="--c:#2b7489"  >0.01%<div class="howm" style="--c:#2b7489"  ></div></div></div>
+<div class="knoo" ><span style="font-size:12px;" >Js</span><div class="bars" style="--c:#af7219"  >0.01%<div class="howm"  style="--c:#af7219" ></div></div></div>
+<div class="knoo" ><span style="font-size:12px;" >Php</span><div class="bars" style="--c:#4e5d94" >0.01%<div class="howm"  style="--c:#4e5d94"  ></div></div></div>
+<div class="knoo" ><span style="font-size:14px;" >Copy/Paste </span><div class="bars" style="border:1px solid #0fa;color:black;box-shadow:0px 0px 0px #0fa;" >101%<div class="howm" style="width:101%;background:#0fa;box-shadow:0px 0px 10px #0fa;" ></div></div></div>
 </div>
 <div class="cirs" >
 <div class="s" style="--d:4s;--l:158vw;--a:30s"></div>
