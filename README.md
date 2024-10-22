@@ -35,6 +35,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h2 align="center"> ❤ Copy/paste </h2> -->
+<!--
+**atanuroy22/atanuroy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### [Karma](https://hinduism.stackexchange.com/questions/2399/is-our-destiny-predetermined-if-yes-then-why-do-our-actions-affect-our-karma)
+
+
 <p align="center" ><img src=th30ne.svg ></p>
 <p align="center" ><img src=pc.svg ></p>
 <p align="right" ><img src=timer.svg ></p>
