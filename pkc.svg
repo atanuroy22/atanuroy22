@@ -13,7 +13,7 @@
         width: calc(100% - 28px);
         height: 350px; /* reduced from 700px to 350px */
         background: transparent;
-        padding: 5px;
+        padding: 0px;
         margin-top: 0px;
         position: relative;
         margin-left: 4px;
