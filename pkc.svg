@@ -219,8 +219,8 @@ box-shadow:0px 0px 10px var(--c);
 <div class="knoo" >Css<div class="bars" style="--c:#2b7489"  >0.01%<div class="howm" style="--c:#2b7489"  ></div></div></div>
 <div class="knoo" >Js<div class="bars" style="--c:#af7219"  >0.01%<div class="howm"  style="--c:#af7219" ></div></div></div>
 <div class="knoo" >PHP<div class="bars" style="--c:#4e5d94" >0.01%<div class="howm"  style="--c:#4e5d94"  ></div></div></div>
-<!-- <div class="knoo" >HTML<div class="bars" style="--c:#e44b23"  >0.01%<div class="howm"  style="--c:#e44b23" ></div></div></div>
-<div class="knoo" >CSS<div class="bars"  style="--c:#563d7c" >0.01%<div class="howm" style="--c:#563d7c"  ></div></div></div> -->
+<div class="knoo" >Node<div class="bars" style="--c:#e44b23"  >0.01%<div class="howm"  style="--c:#e44b23" ></div></div></div>
+<div class="knoo" >react<div class="bars"  style="--c:#563d7c" >0.01%<div class="howm" style="--c:#563d7c"  ></div></div></div>
 <div class="knoo" >Python<div class="bars"  style="--c:#3572A5" >0.01%<div class="howm" style="--c:#3572A5"  ></div></div></div>
 
 
