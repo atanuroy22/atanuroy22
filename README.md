@@ -62,13 +62,13 @@
 </p>
 
 
-<p align="right">
+<!-- <p align="right">
 <picture>
 <source align="right" media="(prefers-color-scheme: dark)" srcset="timer.svg">
 <source media="(prefers-color-scheme: light)" srcset="blank.svg">
 <img  src="./blank.svg">
 </picture>
-</p>
+</p>-->
 
 <!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
 <h3 align="left">Connect with me:</h3>
