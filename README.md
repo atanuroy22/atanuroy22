@@ -34,8 +34,40 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
+<!-- <h2 align="center"> ❤ Copy/paste </h2> -->
+<p align="center" ><img src=th30ne.svg ></p>
+<p align="center" ><img src=pc.svg ></p>
+<p align="right" ><img src=timer.svg ></p>
 
+-->
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="th30ne.svg">
+  <source media="(prefers-color-scheme: light)" srcset="darkmode.svg">
+  <img  src="./blank.svg">
+</picture>
+</p>
+
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" align="center" srcset="pkc.svg">
+<source media="(prefers-color-scheme: light)" srcset="blank.svg">
+<img  src="./blank.svg">
+</picture>
+</p>
+
+
+<p align="right">
+<picture>
+<source align="right" media="(prefers-color-scheme: dark)" srcset="timer.svg">
+<source media="(prefers-color-scheme: light)" srcset="blank.svg">
+<img  src="./blank.svg">
+</picture>
+</p>
+
+<!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atanu-roy-a65278269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-roy-a65278269" height="30" width="40" /></a>
