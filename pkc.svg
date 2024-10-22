@@ -190,13 +190,14 @@ justify-content:middle;
 .bars{
 margin-left:20px;
 height:20px;
-width:80%;
+width:75%;
 font-size:12px;
 line-height:20px;
 text-align:right;
 position:absolute;
 right:0;
 padding-right:10px;
+padding-left:0px;
 text-align:right;
 border:1px solid var(--c);
 
@@ -217,7 +218,7 @@ box-shadow:0px 0px 10px var(--c);
 <div class="knoo" ><span style="font-size:12px;" >Css</span><div class="bars" style="--c:#2b7489"  >0.01%<div class="howm" style="--c:#2b7489"  ></div></div></div>
 <div class="knoo" ><span style="font-size:12px;" >Js</span><div class="bars" style="--c:#af7219"  >0.01%<div class="howm"  style="--c:#af7219" ></div></div></div>
 <div class="knoo" ><span style="font-size:12px;" >Php</span><div class="bars" style="--c:#4e5d94" >0.01%<div class="howm"  style="--c:#4e5d94"  ></div></div></div>
-<div class="knoo" ><span style="font-size:14px;" >Copy/Paste </span><div class="bars" style="border:1px solid #0fa;color:black;box-shadow:0px 0px 0px #0fa;" >101%<div class="howm" style="width:101%;background:#0fa;box-shadow:0px 0px 10px #0fa;" ></div></div></div>
+<div class="knoo" ><span style="font-size:16px;" >Copy/Paste </span><div class="bars" style="border:1px solid #0fa;color:black;box-shadow:0px 0px 0px #0fa;" >101%<div class="howm" style="width:101%;background:#0fa;box-shadow:0px 0px 10px #0fa;" ></div></div></div>
 </div>
 <div class="cirs" >
 <div class="s" style="--d:4s;--l:158vw;--a:30s"></div>
