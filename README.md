@@ -40,15 +40,15 @@
 <p align="center" ><img src=th30ne.svg ></p>
 <p align="center" ><img src=pc.svg ></p>
 <p align="right" ><img src=timer.svg ></p>
--->
 
-<p align="center">
+
+<!--<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="th30ne.svg">
   <source media="(prefers-color-scheme: light)" srcset="darkmode.svg">
   <img  src="./blank.svg">
 </picture>
-</p>
+</p>-->
 
 
 <p align="center">
