@@ -20,7 +20,7 @@
 -->
 <!-- <h2 align="center"> ❤ Description </h2> -->
 
-- 🔭 Currently Studying on **:-Master of Computer Application**
+- 🔭 Currently Working as **:- AI ENGINEER**
 
 - 🌱 Currently Learning **:-Everything Interesting Available on Earth**
 
