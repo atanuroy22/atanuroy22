@@ -102,11 +102,11 @@
 
 
 <!-- <h2 align="center"> ❤ Most Used language </h2> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanuroy22&show_icons=true&locale=en&layout=compact" alt="atanuroy22" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanuroy22&show_icons=true&locale=en&layout=compact" alt="atanuroy22" /></p> -->
 <!-- <h2 align="center"> ❤ Github Stats </h2> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanuroy22&show_icons=true&locale=en" alt="atanuroy22" /></p>
 <!-- <h2 align="center"> ❤ Contribution,Streaks,Longest Streak </h2> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanuroy22&" alt="atanuroy22" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanuroy22&" alt="atanuroy22" /></p> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 Contribution Snake Animation:
