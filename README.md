@@ -1,6 +1,6 @@
 <!-- <h2 align="center"> ❤ Banner </h2> -->
 <!--![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)-->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card) -->
 <!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Heading </h2> -->
@@ -26,13 +26,13 @@
 
 - 📫 Mail me at **:-atanukrroy45@gmail.com**
 
-- 💬 Don't Ask me Anything **:-Figure it out Yourself it's the Best Way to Learn**
+<!-- - 💬 Don't Ask me Anything **:-Figure it out Yourself it's the Best Way to Learn** -->
 
-- 🌱 In My Opinion **:-If You Love Coding,Coding Will Also love You**
+<!-- - 🌱 In My Opinion **:-If You Love Coding,Coding Will Also love You** -->
 
-- ⚡ Fun fact **:-You Won't Understand Me Without Spending Time With Me**
+<!-- - ⚡ Fun fact **:-You Won't Understand Me Without Spending Time With Me**
 
-- ⚡ My Useless Quote **:-You Got Only 1 Life Bro [Enjoy Every Moment]**
+- ⚡ My Useless Quote **:-You Got Only 1 Life Bro [Enjoy Every Moment]** -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
