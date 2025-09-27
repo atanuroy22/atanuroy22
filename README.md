@@ -53,13 +53,13 @@
 </p>-->
 
 
-<p align="center">
+<!-- <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" align="center" srcset="pkc.svg">
 <source media="(prefers-color-scheme: light)" srcset="blank.svg">
 <img  src="./blank.svg">
 </picture>
-</p>
+</p> -->
 
 
 <!-- <p align="right">
