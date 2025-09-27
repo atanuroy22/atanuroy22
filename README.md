@@ -7,12 +7,12 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Atanu Roy</h1>
 <!-- <h3 align="center">A passionate FullStack developer from India</h3> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Back-End+Developer;Open-Source+Contributor;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center"> ❤ Moving Gif</h2> -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 <!-- <h2 align="center"> ❤ Profile Visit(Currently Disabled)</h2> -->
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=atanuroy22&label=Profile%20views&color=0e75b6&style=flat" alt="atanuroy22" /> </p>
@@ -72,22 +72,22 @@
 
 <!-- <h2 align="center"> ❤ Language Icon </h2> -->
 
-<h3 align="left">Languages inside Blood:</h3>
+<h3 align="left">I Know:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="react" width="40" height="40"/> 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="react" width="40" height="40"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="react" width="40" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
@@ -104,10 +104,10 @@
 <!-- <h2 align="center"> ❤ Most Used language </h2> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanuroy22&show_icons=true&locale=en&layout=compact" alt="atanuroy22" /></p> -->
 <!-- <h2 align="center"> ❤ Github Stats </h2> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanuroy22&show_icons=true&locale=en" alt="atanuroy22" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanuroy22&show_icons=true&locale=en" alt="atanuroy22" /></p> -->
 <!-- <h2 align="center"> ❤ Contribution,Streaks,Longest Streak </h2> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanuroy22&" alt="atanuroy22" /></p> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ### 🐍 Contribution Snake Animation:
 <p align="center">
