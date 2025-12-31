@@ -24,7 +24,7 @@
 
 - 🌱 Currently Learning **:-Everything Interesting Available on Earth**
 
-- 📫 Mail me at **:-atanukrroy45@gmail.com**
+<!-- - 📫 Mail me at **:-atanukrroy45@gmail.com** -->
 
 <!-- - 💬 Don't Ask me Anything **:-Figure it out Yourself it's the Best Way to Learn** -->
 
