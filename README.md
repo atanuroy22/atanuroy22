@@ -117,7 +117,7 @@
 <!-- <a href="https://github.com/atanuroy22"><img alt="Atanu Roy" src="https://github-readme-activity-graph.cyclic.app/graph?username=atanuroy22&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a> -->
 
 <!-- <h2 align="center"> ❤ Views and Followers </h2> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atanuroy22&label=Profile%20views&color=19b40e&style=flat-square" alt="Atanu Roy" /> 
 <a href="https://github.com/atanuroy22?tab=followers"><img src="https://img.shields.io/github/followers/atanuroy22?label=Followers&style=social" alt="GitHub Badge"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
