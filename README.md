@@ -2,8 +2,8 @@
 <!--![logo](https://github.com/atanuroy22/atanuroy22/blob/main/Banner.png)-->
 <!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card) -->
 <!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/atanuroy22?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- <h2 align="center"> ❤ Heading </h2> -->
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center"> ❤ Heading </h2> -->
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Atanu Roy</h1>
 <!-- <h3 align="center">A passionate FullStack developer from India</h3> -->
 <p align="center">
@@ -88,8 +88,8 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="react" width="40" height="40"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 <!-- <h2 align="center"> ❤ Contact Me With Icon </h2> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -98,8 +98,8 @@
 <a href="https://instagram.com/atanu_roy_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atanuroy1297" height="30" width="40" /></a>
   <a href="https://wa.me/919564866051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="atanu roy" height="30" width="40" /></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <!-- <h2 align="center"> ❤ Most Used language </h2> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanuroy22&show_icons=true&locale=en&layout=compact" alt="atanuroy22" /></p> -->
@@ -108,11 +108,11 @@
 <!-- <h2 align="center"> ❤ Contribution,Streaks,Longest Streak </h2> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanuroy22&" alt="atanuroy22" /></p> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
+<!--
 ### 🐍 Contribution Snake Animation:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 <!-- <h2 align="center"> ❤ Graph </h2> -->
 <!-- <a href="https://github.com/atanuroy22"><img alt="Atanu Roy" src="https://github-readme-activity-graph.cyclic.app/graph?username=atanuroy22&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a> -->
 
